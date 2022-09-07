@@ -1,4 +1,4 @@
-#www.havelsan.com.tr - Data Dumped By CodeBoss
+www.havelsan.com.tr - Data Dumped By CodeBoss
 
 Target : http://www.havelsan.com.tr
 HAVELSAN offers end-to-end new generation technologies with its 40 years of experience in the fields of defense, simulation, informatics, national security and cyber security.
